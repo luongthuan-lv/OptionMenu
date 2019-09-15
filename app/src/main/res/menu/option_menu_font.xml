@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/beautiful"
+        android:title="@string/beautiful"/>
+    <item android:id="@+id/cassandra"
+        android:title="@string/cassandra"/>
+    <item android:id="@+id/countryside"
+        android:title="@string/countryside"/>
+    <item android:id="@+id/horizontal"
+        android:title="@string/horizontal"/>
+    <item android:id="@+id/lemon"
+        android:title="@string/lemon"/>
+    <item android:id="@+id/vegan"
+        android:title="@string/vegan"/>
+</menu>

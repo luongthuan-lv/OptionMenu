@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+
+    <string name="color">Color</string>Countryside
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="purple">Purple</string>
+    <string name="brown">Brown</string>
+
+    <string name="font">Font</string>
+    <string name="beautiful">Beautiful</string>
+    <string name="cassandra">Cassandra</string>
+    <string name="countryside">Countryside</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="lemon">Lemon</string>
+    <string name="vegan">Vegan</string>
+
+
+</resources>
